@@ -1,3 +1,6 @@
 # Unquote
 A book discovery responsive web-app made with Vue, TailwindCSS, and Firebase. 
-unquote.io
+
+Try it at
+
+www.unquote.io
