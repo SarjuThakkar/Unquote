@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+.DS_Store
+.eslintignore
+.firebase/hosting.ZGlzdA.cache
+.firebaserc
+.prettierrc.js
+firebase.json
+firestore.indexes.json
+firestore.rules
